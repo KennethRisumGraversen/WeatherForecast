@@ -38,5 +38,5 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: KennethRisumGraversen/WeatherForecast/Weatherforecast-Image
+          repository: KennethRisumGraversen/WeatherForecast/weatherforecast-image
           tag_with_ref: true
